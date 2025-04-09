@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+Flask-SocketIO
+python-socketio
+python-engineio
+Werkzeug
+PyJWT
