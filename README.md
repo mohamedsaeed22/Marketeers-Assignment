@@ -2,11 +2,16 @@
 
 ## Project Demo
 
-https://github.com/user-attachments/assets/29b0413b-3d90-4b83-9c6b-8732a8250319
+<video width="100%" controls>
+  <source src="https://drive.google.com/uc?export=download&id=1xqbX4blgpCewG9MQceizfWGKtzz3R7Iz" type="video/mp4">
+  Your browser does not support the video tag.  
+  **If the video doesn't load, [watch it here](https://drive.google.com/file/d/1xqbX4blgpCewG9MQceizfWGKtzz3R7Iz/view).**
+</video>
 
 ## 1- Flask App with JWT Authentication, SQLite, and Socket.IO
 
 ## Description
+
 This is a simple web application built with **Flask**, **JWT Authentication**, **SQLite** as the database, and **Socket.IO** for real-time communication. The application provides authentication and real-time updates, and can be easily integrated with a React frontend.
 
 ### Key Features:
