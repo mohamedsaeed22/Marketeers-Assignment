@@ -1,17 +1,12 @@
 # MarketeersResearch Full-Stack Assignment
 
-## Project Demo
+## Assignment Demo Video
 
-<video width="100%" controls>
-  <source src="https://drive.google.com/uc?export=download&id=1xqbX4blgpCewG9MQceizfWGKtzz3R7Iz" type="video/mp4">
-  Your browser does not support the video tag.  
-  **If the video doesn't load, [watch it here](https://drive.google.com/file/d/1xqbX4blgpCewG9MQceizfWGKtzz3R7Iz/view).**
-</video>
+https://drive.google.com/file/d/1xqbX4blgpCewG9MQceizfWGKtzz3R7Iz/view
 
 ## 1- Flask App with JWT Authentication, SQLite, and Socket.IO
 
 ## Description
-
 This is a simple web application built with **Flask**, **JWT Authentication**, **SQLite** as the database, and **Socket.IO** for real-time communication. The application provides authentication and real-time updates, and can be easily integrated with a React frontend.
 
 ### Key Features:
